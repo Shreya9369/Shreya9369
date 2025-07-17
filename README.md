@@ -4,7 +4,7 @@
 ---
 
 🌟 Passionate about building impactful web applications and exploring backend technologies.  
-💻 Currently learning DevOps, System Design, and modern JS frameworks.  
+💻 Currently learning System Design, and modern JS frameworks.  
 🚀 I love turning ideas into working products — clean code is my thing!
 
 ---
