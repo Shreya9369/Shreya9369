@@ -36,9 +36,7 @@
   UI clone of Coca-Cola’s website built for branding and design practice.  
   ✅ Pure frontend design with animations and responsiveness.
 
-- 🔗 [**Garbage and Face detection**]((https://github.com/Shreya9369/garbage-face-detection/blob/main/README.md))  
-  UI clone of Coca-Cola’s website built for branding and design practice.  
-  ✅ Pure frontend design with animations and responsiveness.
+
 
 ---
 
