@@ -38,7 +38,10 @@
 
 - 🔗 [**Thread Clone**](https://github.com/Shreya9369/Thread-Clone)  
   A social discussion platform clone built using **Node.js**, **Express**, and **MongoDB**.  
-  ✅ Features include user authentication, creating threads, commenting, and real-time updates.
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 
 
