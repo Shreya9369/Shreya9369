@@ -36,6 +36,10 @@
   UI clone of Coca-Cola’s website built for branding and design practice.  
   ✅ Pure frontend design with animations and responsiveness.
 
+- 🔗 [**Thread Clone**](https://github.com/Shreya9369/Thread-Clone)  
+  A social discussion platform clone built using **Node.js**, **Express**, and **MongoDB**.  
+  ✅ Features include user authentication, creating threads, commenting, and real-time updates.
+
 
 
 ---
